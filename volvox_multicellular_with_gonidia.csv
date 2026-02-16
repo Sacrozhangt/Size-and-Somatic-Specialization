@@ -1,0 +1,13 @@
+species,min_cells,max_cells,min_gonidia,max_gonidia,ref,p_germ_max,p_germ_min
+Volvox_africanus,2300,13700,2,8,7,0.000583942,0.000869565
+Volvox_aureus,1300,3200,4,12,7,0.00375,0.003076923
+Volvox_barberi,35000,47800,3,9,7,0.000188285,8.571428571428571e-05
+Volvox_carteri_kawasakiensis,500,3000,8,30,23,0.01,0.016
+Volvox_carteri_nagariensis,2000,8000,13,21,23,0.002625,0.0065
+Volvox_carteri_weismannia,2000,7500,8,12,62,0.0016,0.004
+Volvox_dissipatrix,14700,31800,4,10,7,0.000314465,0.000272109
+Volvox_gigas,1000,3000,30,60,"7,56",0.02,0.03
+Volvox_globator,8000,22000,3,17,7,0.000772727,0.000375
+Volvox_obversus,2100,4000,5,8,7,0.002,0.002380952
+Volvox_rouseletii,14000,42000,1,16,7,0.000380952,7.142857142857143e-05
+Volvox_tertius,500,2000,2,12,7,0.006,0.004
